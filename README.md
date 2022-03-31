@@ -19,8 +19,6 @@ This is an anisotropy PBR shader on Unity SRP, simplely based on distortion in t
 
 [learn more...](https://github.com/DaiZiLing/Anisotropy-Shader-For-Unity-SRP) 
 
-![image](https://github.com/DaiZiLing/Anisotropy-Shader-For-Unity-SRP/blob/main/Pictures/QQ截图20220314194016.png)
-
 <div align="center"><img src="https://github.com/DaiZiLing/Anisotropy-Shader-For-Unity-SRP/blob/main/Pictures/QQ截图20220314194016.png" width="600" ></div>
 
 ## HimeLab
@@ -28,14 +26,13 @@ This is an anisotropy PBR shader on Unity SRP, simplely based on distortion in t
 **Red Alert 2 MOD HimeLab** is a **Command & Conquer Red Alert 2 Yuri's Renvenge** mod, a rookie modification on a old isometric style game. Implement on Ares expand platform, exploring a modern way to making old game come back to fresh. Including features such as Reshade post-processing, reforge lighting envioronment, new scene, new level.
 （《玲玲实验室》，是一个《红色警戒2》的mod。尝试在古旧的红色警戒游戏引擎上探索较新颖的现代游戏制作技法，使用Ares拓展平台制作。包括了Reshade后处理、全新光照、全新场景、全新战役）
 
-[learn more on MODDB](https://www.moddb.com/mods/hime-lab) 
-[learn more on Bilibili](https://space.bilibili.com/811796) 
+[learn more on MODDB](https://www.moddb.com/mods/hime-lab) and [learn more on Bilibili](https://space.bilibili.com/811796) 
 
 <div align="center"><img src="00lab_06.gif"></div>
 
 <div align="center"><img src="QQ截图20220331173931.jpg" width="800"></div>
 
-<div align="center"><img src="QQ截图20220331174007.jpg" width="800"></div>
+<div align="center"><img src="QQ截图20220331174008.jpg" width="800"></div>
 
 ## Maxscripts
 
@@ -66,7 +63,7 @@ Some blogs ...
 
 [假如红警3加上光线追踪会是什么样子？Unity HDRP实战](https://t.bilibili.com/562068879537592472) 
 
-<div align="center"><img src="bea2585aa80c0f83e7017e2b65d2d0c6a0f4c62a.jpg" width="500" ></div>
+<div align="center"><img src="bea2585aa80c0f83e7017e2b65d2d0c6a0f4c62a.jpg" width="800" ></div>
 
 # Cooking
 
