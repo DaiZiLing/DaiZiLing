@@ -30,10 +30,6 @@ This is an anisotropy PBR shader on Unity SRP, simplely based on distortion in t
 
 <div align="center"><img src="00lab_06.gif"></div>
 
-<div align="center"><img src="QQ截图20220331173931.jpg" width="800"></div>
-
-<div align="center"><img src="QQ截图20220331174008.jpg" width="800"></div>
-
 ## Maxscripts
 
 My 3dsmax scripting practice. To accelerate art assets progress, standardize export art assets in the game engine, really noob. Including batch rendering, batch renaming, autoLOD, random placing, etc.
