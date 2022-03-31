@@ -21,6 +21,7 @@ This is an anisotropy PBR shader on Unity SRP, simplely based on distortion in t
 
 ![image](https://github.com/DaiZiLing/Anisotropy-Shader-For-Unity-SRP/blob/main/Pictures/QQ截图20220314194016.png)
 
+<div align="center"><img src="https://github.com/DaiZiLing/Anisotropy-Shader-For-Unity-SRP/blob/main/Pictures/QQ截图20220314194016.png" width="600" ></div>
 
 ## HimeLab
 
@@ -32,16 +33,16 @@ This is an anisotropy PBR shader on Unity SRP, simplely based on distortion in t
 
 <div align="center"><img src="00lab_06.gif"></div>
 
-<div align="center"><img src="QQ截图20220331173931.jpg" width="500"></div>
+<div align="center"><img src="QQ截图20220331173931.jpg" width="800"></div>
 
-<div align="center"><img src="QQ截图20220331174007.jpg" width="500"></div>
+<div align="center"><img src="QQ截图20220331174007.jpg" width="800"></div>
 
 ## Maxscripts
 
 My 3dsmax scripting practice. To accelerate art assets progress, standardize export art assets in the game engine, really noob. Including batch rendering, batch renaming, autoLOD, random placing, etc.
 （我的3dsmax 脚本练习集，用以加速美术资产制作，规范美术资产导出进游戏引擎。技术含量实在低下，但至少能够节省美术的时间。包含批量渲染、批量重命名、自动LOD、随机种树等等）
 
-<div align="center"><img src="QQ截图20220331172518.jpg" width="500"></div>
+<div align="center"><img src="QQ截图20220331172518.jpg" width="800"></div>
 
 
 # Articles
