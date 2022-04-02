@@ -9,6 +9,9 @@
 
 [![DaiZiLing's github stats](https://github-readme-stats.vercel.app/api?username=DaiZiLing)](https://github.com/DaiZiLing/github-readme-stats)
 
+<figure style="display: flex; justify-content: space-between; margin: 0;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaiZiLing&theme=github_white&layout=compact" />
+</figure>
 
 # Projects
 
