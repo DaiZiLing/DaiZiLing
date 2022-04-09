@@ -24,6 +24,14 @@ This is an anisotropy PBR shader on Unity SRP, simplely based on distortion in t
 
 <div align="center"><img src="https://github.com/DaiZiLing/Anisotropy-Shader-For-Unity-SRP/blob/main/Pictures/QQ截图20220314194016.png" width="600" ></div>
 
+
+## Nier:Automata Copied City In Unity SRP
+shader practice, WIP
+
+[learn more...](https://github.com/DaiZiLing/Nier-Automata-Copied-City-in-URP) 
+
+<div align="center"><img src="https://github.com/DaiZiLing/Nier-Automata-Copied-City-in-URP/blob/main/0408_1.png" width="900" ></div>
+
 ## HimeLab
 
 **Red Alert 2 MOD HimeLab** is a **Command & Conquer Red Alert 2 Yuri's Renvenge** mod, a rookie modification on a old isometric style game. Implement on Ares expand platform, exploring a modern way to making old game come back to fresh. Including features such as Reshade post-processing, reforge lighting envioronment, new scene, new level.
