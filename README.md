@@ -32,6 +32,13 @@ shader practice, WIP
 
 <div align="center"><img src="https://github.com/DaiZiLing/Nier-Automata-Copied-City-in-URP/blob/main/0408_1.png" width="900" ></div>
 
+## Dual Blur In Unity SRP
+post-process practice, Gaussian/Box/Kawase/DualKawase Blur included.
+
+[learn more...](https://github.com/DaiZiLing/My-Unity-Post-Process-Practice) 
+
+<div align="center"><img src="https://github.com/DaiZiLing/My-Unity-Post-Process-Practice/blob/main/Image/dualblur.gif" width="900" ></div>
+
 ## HimeLab
 
 **Red Alert 2 MOD HimeLab** is a **Command & Conquer Red Alert 2 Yuri's Renvenge** mod, a rookie modification on a old isometric style game. Implement on Ares expand platform, exploring a modern way to making old game come back to fresh. Including features such as Reshade post-processing, reforge lighting envioronment, new scene, new level.
