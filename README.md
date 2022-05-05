@@ -1,3 +1,8 @@
+Hola！My name is Dai Ziling, I'm a rookie from Chengdu China 🐼 ~
+I love computer games 🎮 when I was child, 3D became my hobby when I was 14. Form that period of time, I began to buy some books 📚 about 3Dsmax, Photoshop. 
+But Red Alert 2 led me go astray😭, studing useless outdated game modification and struggle on a antiquated game engine waste my lot of years. I leave far and far away form modern GameDev😩. 
+At 2020, I came back and began learning about the modren game engine(UE4 and Unity)💪, and plus learning, C#, Shader(HLSL), Zbrush, SubstancePainter, Substance Designer and so on.
+
 # Info
 * 🏫 **Edu**: China University of Petroleum (Qingdao) , Mechanical Engineering
 * 📕 **Blog (Bilibili)**: https://space.bilibili.com/811796
