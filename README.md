@@ -45,7 +45,7 @@ not complete, there still issue remaining...
 
 [learn more...](https://github.com/DaiZiLing/LTC-Polygon-Light-For-URP) 
 
-<div align="center"><img src="https://github.com/DaiZiLing/Nier-Automata-Copied-City-in-URP/blob/main/0426_19.gif"></div>
+<div align="center"><img src="https://github.com/DaiZiLing/DaiZiLing/blob/main/0426_19.gif"></div>
 
 ## Dual Blur In Unity SRP
 post-process practice, Gaussian/Box/Kawase/DualKawase Blur included.
