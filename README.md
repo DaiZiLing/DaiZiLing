@@ -28,54 +28,64 @@ At 2020, I came back and began learning about the modren game engine(UE4 and Uni
 This is an anisotropy PBR shader on Unity SRP, simplely based on distortion in tangent space.
 （一个Unity SRP的各向异性PBR shader，基于切线空间的扰动，很简单）
 
-[learn more...](https://github.com/DaiZiLing/Anisotropy-Shader-For-Unity-SRP) 
-
 <div align="center"><img src="https://github.com/DaiZiLing/Anisotropy-Shader-For-Unity-SRP/blob/main/Pictures/QQ截图20220314194016.png" width="600" ></div>
 
+[learn more...](https://github.com/DaiZiLing/Anisotropy-Shader-For-Unity-SRP) 
 
 ## Nier:Automata Copied City In Unity SRP
 shader practice, WIP
 
-[learn more...](https://github.com/DaiZiLing/Nier-Automata-Copied-City-in-URP) 
-
 <div align="center"><img src="https://github.com/DaiZiLing/Nier-Automata-Copied-City-in-URP/blob/main/0408_1.png" width="900" ></div>
+
+[learn more...](https://github.com/DaiZiLing/Nier-Automata-Copied-City-in-URP) 
 
 ## Linearly Transformed Cosine Polygon Light Test In Unity SRP
 not complete, there still issue remaining...
 
-[learn more...](https://github.com/DaiZiLing/LTC-Polygon-Light-For-URP) 
-
 <div align="center"><img src="https://github.com/DaiZiLing/DaiZiLing/blob/main/0426_19.gif"></div>
+
+[learn more...](https://github.com/DaiZiLing/LTC-Polygon-Light-For-URP) 
 
 ## Dual Blur In Unity SRP
 post-process practice, Gaussian/Box/Kawase/DualKawase Blur included.
 
-[learn more...](https://github.com/DaiZiLing/My-Unity-Post-Process-Practice) 
-
 <div align="center"><img src="https://github.com/DaiZiLing/My-Unity-Post-Process-Practice/blob/main/Image/dualblur.gif" width="900" ></div>
+
+[learn more...](https://github.com/DaiZiLing/My-Unity-Post-Process-Practice) 
 
 ## HimeLab
 
 **Red Alert 2 MOD HimeLab** is a **Command & Conquer Red Alert 2 Yuri's Renvenge** mod, a rookie modification on a old isometric style game. Implement on Ares expand platform, exploring a modern way to making old game come back to fresh. Including features such as Reshade post-processing, reforge lighting envioronment, new scene, new level.
 （《玲玲实验室》，是一个《红色警戒2》的mod。尝试在古旧的红色警戒游戏引擎上探索较新颖的现代游戏制作技法，使用Ares拓展平台制作。包括了Reshade后处理、全新光照、全新场景、全新战役）
 
-[learn more on MODDB](https://www.moddb.com/mods/hime-lab) and [learn more on Bilibili](https://space.bilibili.com/811796) 
-
 <div align="center"><img src="00lab_06.gif"></div>
 
 <div align="center"><img src="6ddd1094dcc9d3ee9b3aad1c82b5a9b1bc4b8b96.png" width="900" ></div>
+
+[learn more on MODDB](https://www.moddb.com/mods/hime-lab)
+[learn more on Bilibili](https://space.bilibili.com/811796)
 
 下图三维版为Unity开发的独立游戏，但我是打酱油的（👀）
 
 <div align="center"><img src="1227_1.gif"></div>
 
 ## Maxscripts
-
 My 3dsmax scripting practice. To accelerate art assets progress, standardize export art assets in the game engine, really noob. Including batch rendering, batch renaming, autoLOD, random placing, etc.
 （我的3dsmax 脚本练习集，用以加速美术资产制作，规范美术资产导出进游戏引擎。技术含量实在低下，但至少能够节省美术的时间。包含批量渲染、批量重命名、自动LOD、随机种树等等）
 
 <div align="center"><img src="QQ截图20220331172518.jpg" width="800"></div>
 
+### Auto LOD
+A small toy for 3dsmax, to creat LOD for appilication such as Unity / Unreal as so on.
+
+<div align="center"><img src="https://github.com/DaiZiLing/Quick-LOD-for-3dmax/blob/main/0317_1.gif"></div>
+
+[learn more...](https://github.com/DaiZiLing/Quick-LOD-for-3dmax) 
+
+### Batch Render
+Batch Render tool for my game spritesheet assets making progress.
+
+<div align="center"><img src="3dmaxs_0509.gif"></div>
 
 # Articles
 
