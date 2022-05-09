@@ -65,6 +65,10 @@ post-process practice, Gaussian/Box/Kawase/DualKawase Blur included.
 
 <div align="center"><img src="6ddd1094dcc9d3ee9b3aad1c82b5a9b1bc4b8b96.png" width="900" ></div>
 
+下图三维版为Unity开发的独立游戏，但我是打酱油的（👀）
+
+<div align="center"><img src="1227_1.gif"></div>
+
 ## Maxscripts
 
 My 3dsmax scripting practice. To accelerate art assets progress, standardize export art assets in the game engine, really noob. Including batch rendering, batch renaming, autoLOD, random placing, etc.
