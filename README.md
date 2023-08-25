@@ -23,6 +23,12 @@ At 2020, I came back and began learning about the modren game engine(UE4 and Uni
 
 # Projects
 
+## Sixway Panorama Cloud
+
+a sixway lighting skybox trick, and blender shader for render vdb.
+![image](https://github.com/DaiZiLing/DaiZiLing/blob/main/v2-12e0b8e2b3a401d2783091d9707dc677_720w.png)
+![image](https://github.com/DaiZiLing/DaiZiLing/blob/main/0824_1.gif)
+
 ## AnisotropyShaderForUnitySRP
 
 This is an anisotropy PBR shader on Unity SRP, simplely based on distortion in tangent space.
