@@ -8,7 +8,6 @@ At 2020, I came back and began learning about the modren game engine(UE4 and Uni
 
 # Info
 * 🏫 **Edu**: China University of Petroleum (Qingdao) , Mechanical Engineering
-* 📕 **Blog (Bilibili)**: https://space.bilibili.com/811796
 * 📕 **Blog (Chinese Quora)**: https://www.zhihu.com/people/ai-er-zhi-guang-yi-fu
 * 🔍 **Interest**: painting & rendering & game modification & cooking
 
